@@ -1,3 +1,1 @@
-El analisis respectivo me muestra como hay ciertos patrones que se craron en el codigo buscando por keywords como "CEO" o si tienen muchos seguidores 
-El analisis que se puede realizar con los datos brindados es a publico objetivo, si necesitamos mostrar publicidad a ciertas personas o incluso ofertar cosas se puede ver dependiendo del perfil
-Adicional podemos detectar a los usuarios normales y a los emprendedores o todo el analsisi que deseemos 
+"El análisis realizado evidencia patrones específicos identificados mediante el filtrado de palabras clave (como 'CEO') y el volumen de seguidores. Estos datos permiten una segmentación precisa del público objetivo. De esta manera, es posible dirigir publicidad y ofertas personalizadas según el perfil del usuario, diferenciando eficazmente entre usuarios particulares y emprendedores, o realizando cualquier otro análisis estadístico requerido."
